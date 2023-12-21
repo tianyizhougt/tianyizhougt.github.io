@@ -11,7 +11,6 @@ redirect_from:
 I am a fourth-year Machine Learning Ph.D. student at Georgia Institute of Technology, where I am fortunate to be advised by Prof. [Xiaoming Huo](https://www.isye.gatech.edu/users/xiaoming-huo). I study the theoretical aspects of deep learning. My current research interests lie in the intersection of approximation theory and statistical learning theory.
 
 Previously, I earned my B.Sc. in Statistics with first-class honors at the University of Hong Kong. I was an Overseas Research Fellow in 2019, working with Prof [Ming Yuan](https://www.columbia.edu/~my2550/) at Columbia University, New York. 
-#I have had the fortune to work with Prof Qiang Fu (UBC), Prof Xin Guo (U Queensland), and Prof Guodong Li (HKU).
 
 My email: tzhou306(at)gatech(dot)edu 
 
@@ -21,6 +20,9 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Education
 ------
+Ph.D. in Machine Learning, Minor in Operations Research (2020 - present)
+H. Milton Stewart School of Industrial and Systems Engineering (ISyE), Georgia Institute of Technology
+
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata

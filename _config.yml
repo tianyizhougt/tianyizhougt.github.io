@@ -84,7 +84,7 @@ author:
   avatar           : "propic.jpg"
   bio              : "ML Ph.D. Candidate @ Georgia Tech"
   location         : "Atlanta, GA"
-  employer         : "H. Milton Stewart School of Industrial & Systems Engineering"
+  employer         : #"H. Milton Stewart School of Industrial & Systems Engineering"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "tzhou306@gatech.edu"

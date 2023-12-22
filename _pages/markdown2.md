@@ -21,18 +21,18 @@ redirect_from:
      Jiaxin Gu, Xin Guo, Xiaoxi Liu, Yue Yuan, Yushu Zhu, Minheng Chen, Tian-Yi Zhou, and Qiang Fu.
      **_Annals of Epidemiology._** [Paper Link](https://doi.org/10.1016/j.annepidem.2023.10.002)
      
-   * **Learning Ability of Interpolating Deep Convolutional Neural Networks** (2023+) 
+   * **Learning Ability of Interpolating Deep Convolutional Neural Networks** (2023+).
      Tian-Yi Zhou and Xiaoming Huo. 
-     **_Applied and Computational Harmonic Analysis (ACHA)._** 
+     **_Applied and Computational Harmonic Analysis (ACHA)._** [Paper Link](https://doi.org/10.1016/j.acha.2023.101582)
       * Second Place, The 13th American Institute of Mathematical Sciences (AIMS) Conference Student Paper Competition (2023)
       * Selected to present at Association for Women in Mathematics (AWM) Research Symposium (2023)
       * Runner-up, Alice and John Jarvis Ph.D. student paper competition at Georgia Tech ISyE (2022)
         
   * **Approximation and non-parametric estimation of functions over high-dimensional spheres via deep ReLU networks** (2023).
     Namjoon Suh, Tian-Yi Zhou, and Xiaoming Huo. 
-    **_ICLR 2023._**
+    **_ICLR 2023._** [Paper Link](https://openreview.net/forum?id=r90KYcuB7JS&noteId=b_7KCSqylJ)
     
   * **Modified Poisson regression analysis of grouped and right‐censored counts** (2021).
     Qiang Fu, Tian-Yi Zhou, and Xin Guo. 
-    **_Journal of the Royal Statistical Society: Series A (Statistics in Society)._**
+    **_Journal of the Royal Statistical Society: Series A (Statistics in Society)._** [Paper Link](https://doi.org/10.1111/rssa.12678)
   

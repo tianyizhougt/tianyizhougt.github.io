@@ -88,7 +88,7 @@ Do It Live
 
 ## In Submission
 
-  * **Classification of Unbounded Data by Gaussian Mixture Models via deep ReLU Networks** [ArXiv](https://arxiv.org/pdf/2308.08030.pdf)
+  * **Classification of Unbounded Data by Gaussian Mixture Models via deep ReLU Networks** \[[ArXiv]\](https://arxiv.org/pdf/2308.08030.pdf)
     Tian-Yi Zhou and Xiaoming Huo.
     Under Review.
 

@@ -90,12 +90,14 @@ Do It Live
 
   * **Classification of Unbounded Data by Gaussian Mixture Models via deep ReLU Networks** (2023).
     Tian-Yi Zhou and Xiaoming Huo.
-    _Under Review_.\[[ArXiv]\](https://arxiv.org/pdf/2308.08030.pdf)
+    _Under Review._ [ArXiv](https://arxiv.org/pdf/2308.08030.pdf)
      * ARC-ACO (Algorithms and Randomness Center) Fellowship at Georgia Tech (2023)
      
 ## Journal & Conference Proceedings
 
-   * **Gone with the Weed: Incidents of Adolescent Marijuana Use in the United States, 1976-2021** 
+   * **Gone with the Weed: Incidents of Adolescent Marijuana Use in the United States, 1976-2021** (2023).
+     Jiaxin Gu, Xin Guo, Xiaoxi Liu, Yue Yuan, Yushu Zhu, Minheng Chen, Tian-Yi Zhou, and Qiang Fu.
+     _Annals of Epidemiology._ [Paper Link](https://doi.org/10.1016/j.annepidem.2023.10.002)
       * List item two
       * List item three
       * List item four

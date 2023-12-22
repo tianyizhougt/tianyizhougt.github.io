@@ -1,6 +1,6 @@
 ---
 permalink: /markdown2/
-title: "Markdown2"
+title: "Publications and Preprints"
 author_profile: true
 redirect_from: 
   - /md/
@@ -86,9 +86,10 @@ Startup
 Do It Live
 :   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
 
-## Unordered Lists (Nested)
+## In Submission
 
-  * List item one 
+  * **Classification of Unbounded Data by Gaussian Mixture Models via deep ReLU Networks**
+    Tian-Yi Zhou and Xiaoming Huo. 
       * List item one 
           * List item one
           * List item two

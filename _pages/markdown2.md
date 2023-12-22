@@ -58,23 +58,23 @@ Single line blockquote:
      
 ## Journal & Conference Proceedings
 
-   * **Gone with the Weed: Incidents of Adolescent Marijuana Use in the United States, 1976-2021** (2023). \\
-     Jiaxin Gu, Xin Guo, Xiaoxi Liu, Yue Yuan, Yushu Zhu, Minheng Chen, Tian-Yi Zhou, and Qiang Fu.\\
+   * **Gone with the Weed: Incidents of Adolescent Marijuana Use in the United States, 1976-2021** (2023). 
+     Jiaxin Gu, Xin Guo, Xiaoxi Liu, Yue Yuan, Yushu Zhu, Minheng Chen, Tian-Yi Zhou, and Qiang Fu.
      **_Annals of Epidemiology._** [Paper Link](https://doi.org/10.1016/j.annepidem.2023.10.002)
      
-   * **Learning Ability of Interpolating Deep Convolutional Neural Networks** (2023+) \\
-     Tian-Yi Zhou and Xiaoming Huo. \\
+   * **Learning Ability of Interpolating Deep Convolutional Neural Networks** (2023+) 
+     Tian-Yi Zhou and Xiaoming Huo. 
      **_Applied and Computational Harmonic Analysis (ACHA)._** 
       * Second Place, The 13th American Institute of Mathematical Sciences (AIMS) Conference Student Paper Competition (2023)
       * Selected to present at Association for Women in Mathematics (AWM) Research Symposium (2023)
       * Runner-up, Alice and John Jarvis Ph.D. student paper competition at Georgia Tech ISyE (2022)
         
   * **Approximation and non-parametric estimation of functions over high-dimensional spheres via deep ReLU networks** (2023).
-    Namjoon Suh, Tian-Yi Zhou, and Xiaoming Huo. \\
+    Namjoon Suh, Tian-Yi Zhou, and Xiaoming Huo. 
     **_ICLR 2023._**
     
   * **Modified Poisson regression analysis of grouped and right‐censored counts** (2021).
-    Qiang Fu, Tian-Yi Zhou, and Xin Guo. \\
+    Qiang Fu, Tian-Yi Zhou, and Xin Guo. 
     **_Journal of the Royal Statistical Society: Series A (Statistics in Society)._**
   
 

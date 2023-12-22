@@ -7,29 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
-
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
-
-## Tips and hints
-
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
@@ -72,20 +49,6 @@ Single line blockquote:
 |=============================|
 | Foot1   | Foot2   | Foot3   |
 
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
 ## In Submission
 
   * **Classification of Unbounded Data by Gaussian Mixture Models via deep ReLU Networks** (2023).
@@ -95,19 +58,25 @@ Do It Live
      
 ## Journal & Conference Proceedings
 
-   * **Gone with the Weed: Incidents of Adolescent Marijuana Use in the United States, 1976-2021** (2023).
-     Jiaxin Gu, Xin Guo, Xiaoxi Liu, Yue Yuan, Yushu Zhu, Minheng Chen, Tian-Yi Zhou, and Qiang Fu.
+   * **Gone with the Weed: Incidents of Adolescent Marijuana Use in the United States, 1976-2021** (2023). \\
+     Jiaxin Gu, Xin Guo, Xiaoxi Liu, Yue Yuan, Yushu Zhu, Minheng Chen, Tian-Yi Zhou, and Qiang Fu.\\
      **_Annals of Epidemiology._** [Paper Link](https://doi.org/10.1016/j.annepidem.2023.10.002)
      
-   * **Learning Ability of Interpolating Deep Convolutional Neural Networks** (2023+)
-     Tian-Yi Zhou and Xiaoming Huo.
+   * **Learning Ability of Interpolating Deep Convolutional Neural Networks** (2023+) \\
+     Tian-Yi Zhou and Xiaoming Huo. \\
      **_Applied and Computational Harmonic Analysis (ACHA)._** 
       * Second Place, The 13th American Institute of Mathematical Sciences (AIMS) Conference Student Paper Competition (2023)
       * Selected to present at Association for Women in Mathematics (AWM) Research Symposium (2023)
-      * Runner-up, Alice and John Jarvis Ph.D. student paper competition at Georgia Tech ISyE (2022) 
-  * List item two
-  * List item three
-  * List item four
+      * Runner-up, Alice and John Jarvis Ph.D. student paper competition at Georgia Tech ISyE (2022)
+        
+  * **Approximation and non-parametric estimation of functions over high-dimensional spheres via deep ReLU networks** (2023).
+    Namjoon Suh, Tian-Yi Zhou, and Xiaoming Huo. \\
+    **_ICLR 2023._**
+    
+  * **Modified Poisson regression analysis of grouped and right‐censored counts** (2021).
+    Qiang Fu, Tian-Yi Zhou, and Xin Guo. \\
+    **_Journal of the Royal Statistical Society: Series A (Statistics in Society)._**
+  
 
 ## Ordered List (Nested)
 

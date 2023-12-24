@@ -35,4 +35,10 @@ redirect_from:
   * **Modified Poisson regression analysis of grouped and right‐censored counts** (2021).
     Qiang Fu, Tian-Yi Zhou, and Xin Guo. 
     **_Journal of the Royal Statistical Society: Series A (Statistics in Society)._** [Paper Link](https://doi.org/10.1111/rssa.12678)
+
+## Work in Process
+
+  * **Learning Smooth Operator via Neural Network** (2023+).
+    Tian-Yi Zhou, Namjoon Suh, Guang Cheng, and Xiaoming Huo.
+    Working Paper. 
   

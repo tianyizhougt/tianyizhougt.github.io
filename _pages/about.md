@@ -19,7 +19,7 @@ Previously, I earned my B.Sc. in Statistics with first-class honors at the Unive
 Part of my research has been kindly acknowledged by
 
   * The Margaret and Stephen Kendrick Research Excellence Award
-    ** Awarded annually to one Ph.D. student in ISyE for research in machine learning and analytics
-  * Runner-up, Alice and John Jarvis Ph.D. Student Paper Competition
+    * Awarded annually to one Ph.D. student in ISyE for research in machine learning and analytics
   * ARC-ACO (Algorithms and Randomness Center) Fellowship
-    ** Institute-wide scholarship to support research in high-impact cross-disciplinary data science related areas
+    * Institute-wide scholarship to support research in high-impact cross-disciplinary data science related areas
+    

@@ -13,3 +13,13 @@ I am a fourth-year Machine Learning Ph.D. student at Georgia Institute of Techno
 Previously, I earned my B.Sc. in Statistics with first-class honors at the University of Hong Kong. I was an Overseas Research Fellow in 2019, working with Prof [Ming Yuan](https://www.columbia.edu/~my2550/) at Columbia University, New York. 
 
 **My email: tzhou306(at)gatech(dot)edu** 
+
+## Selected Awards
+
+Part of my research has been kindly acknowledged by
+
+  * The Margaret and Stephen Kendrick Research Excellence Award
+    ** Awarded annually to one Ph.D. student in ISyE for research in machine learning and analytics
+  * Runner-up, Alice and John Jarvis Ph.D. Student Paper Competition
+  * ARC-ACO (Algorithms and Randomness Center) Fellowship
+    ** Institute-wide scholarship to support research in high-impact cross-disciplinary data science related areas

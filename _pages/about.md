@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Machine Learning Ph.D. student at Georgia Institute of Technology, where I am fortunate to be advised by Prof. [Xiaoming Huo](https://www.isye.gatech.edu/users/xiaoming-huo). I study the theoretical aspects of deep learning. My current research interests lie in the intersection of approximation theory and statistical learning theory.
+I am a fourth-year Machine Learning Ph.D. student at Georgia Institute of Technology [ISyE](https://www.isye.gatech.edu/), where I am fortunate to be advised by Prof. [Xiaoming Huo](https://www.isye.gatech.edu/users/xiaoming-huo). I study the theoretical aspects of deep learning. Specifically, I study statistical learning theories for deep learning from generalization and approximation perspectives. I am also interested in the optimization theories of deep learning.
 
-Previously, I earned my B.Sc. in Statistics with first-class honors at the University of Hong Kong. I was an Overseas Research Fellow in 2019, working with Prof [Ming Yuan](https://www.columbia.edu/~my2550/) at Columbia University, New York. 
+Previously, I earned my B.Sc. in Statistics with first-class honors at the University of Hong Kong. I was fortunate to work with Prof. [Qiang Fu](https://sociology.ubc.ca/profile/qiang-fu/) (at UBC) and Prof. [Xin Guo](https://smp.uq.edu.au/profile/11757/xin-guo) (University of Queensland) on computational social science. I was an Overseas Research Fellow in 2019, working with Prof [Ming Yuan](https://www.columbia.edu/~my2550/) at Columbia University, New York. I was also an exchange student at UCLA in 2019, studying math and statistics. 
 
 **My email: tzhou306(at)gatech(dot)edu** 
 

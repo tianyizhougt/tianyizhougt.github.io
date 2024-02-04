@@ -8,9 +8,9 @@ redirect_from:
 ---
 
   * **Analysis and Data Science Seminar (Department of Math & Statistics)**
-      * SUNY Albany, Albany, NY, 04/2023
+      * SUNY Albany, Albany, NY, 04/2024
   * **SIAM Conference on Parallel Processing for Scientific Computing (PP24)**
-      * Baltimore, MD, 03/2023
+      * Baltimore, MD, 03/2024
   * **Georgia Tech SIAM student seminar (School of Math)**
       * Georgia Tech, Atlanta, GA, 10/2023  
   * **2023 Cornell Young Researchers Workshop (Poster)**

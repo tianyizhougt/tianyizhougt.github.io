@@ -9,6 +9,8 @@ redirect_from:
 
   * **Analysis and Data Science Seminar (Department of Math & Statistics)**
       * SUNY Albany, Albany, NY, 04/2024
+  * **Southeast Applied and Computational Mathematics Workshop**
+      * Georgia Tech, Atlanta, GA, 04/2024    
   * **SIAM Conference on Parallel Processing for Scientific Computing (PP24)**
       * Baltimore, MD, 03/2024
   * **Georgia Tech SIAM student seminar (School of Math)**

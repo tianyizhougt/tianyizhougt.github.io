@@ -10,9 +10,13 @@ redirect_from:
 
 ## In Submission
 
-  * **Classification of Unbounded Data by Gaussian Mixture Models via deep ReLU Networks** (2023).
+  * **Approximation of RKHS Functionals by Neural Networks.** (2024).
+    Tian-Yi Zhou, Namjoon Suh, Guang Cheng, and Xiaoming Huo.
+    _Under review._
+
+  * **Classification of Unbounded Data by Gaussian Mixture Models via deep ReLU Networks** (2023+).
     Tian-Yi Zhou and Xiaoming Huo.
-    _Under Review._ [ArXiv](https://arxiv.org/pdf/2308.08030.pdf)
+    _Under Revision at Journal of Machine Learning Research._ [ArXiv](https://arxiv.org/pdf/2308.08030.pdf)
      * ARC-ACO (Algorithms and Randomness Center) Fellowship at Georgia Tech (2023)
      
 ## Journal & Conference Proceedings
@@ -36,9 +40,4 @@ redirect_from:
     Qiang Fu, Tian-Yi Zhou, and Xin Guo. 
     **_Journal of the Royal Statistical Society: Series A (Statistics in Society)._** [Paper Link](https://doi.org/10.1111/rssa.12678)
 
-## Work in Process
-
-  * **Learning Smooth Operator via Neural Network** (2023+).
-    Tian-Yi Zhou, Namjoon Suh, Guang Cheng, and Xiaoming Huo.
-    Working Paper. 
   

@@ -12,7 +12,7 @@ redirect_from:
 
   * **Approximation of RKHS Functionals by Neural Networks.** (2024).
     Tian-Yi Zhou, Namjoon Suh, Guang Cheng, and Xiaoming Huo.
-    _Under review._
+    _Under review._[ArXiv](http://arxiv.org/abs/2403.12187)
 
   * **Classification of Unbounded Data by Gaussian Mixture Models via deep ReLU Networks** (2023+).
     Tian-Yi Zhou and Xiaoming Huo.

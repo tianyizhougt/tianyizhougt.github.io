@@ -13,13 +13,13 @@ redirect_from:
   * **Approximation of RKHS Functionals by Neural Networks.** (2024).
     Tian-Yi Zhou, Namjoon Suh, Guang Cheng, and Xiaoming Huo.
     _Under review._ [ArXiv](http://arxiv.org/abs/2403.12187)
-
-  * **Classification of Unbounded Data by Gaussian Mixture Models via deep ReLU Networks** (2023+).
-    Tian-Yi Zhou and Xiaoming Huo.
-    _Under Revision at Journal of Machine Learning Research._ [ArXiv](https://arxiv.org/pdf/2308.08030.pdf)
-     * ARC-ACO (Algorithms and Randomness Center) Fellowship at Georgia Tech (2023)
      
 ## Journal & Conference Proceedings
+
+   * **Classification of Unbounded Data by Gaussian Mixture Models via deep ReLU Networks** (2023+).
+    Tian-Yi Zhou and Xiaoming Huo.
+    **_To appear in Journal of Machine Learning Research (JMLR)._** [ArXiv](https://arxiv.org/pdf/2308.08030.pdf)
+     * ARC-ACO (Algorithms and Randomness Center) Fellowship at Georgia Tech (2023)
 
    * **Gone with the Weed: Incidents of Adolescent Marijuana Use in the United States, 1976-2021** (2023). 
      Jiaxin Gu, Xin Guo, Xiaoxi Liu, Yue Yuan, Yushu Zhu, Minheng Chen, Tian-Yi Zhou, and Qiang Fu.

@@ -1,12 +1,14 @@
 ---
 permalink: /presentations/
-title: " Recent and Upcoming Talks"
+title: "Past and Upcoming Talks"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
+  * **ACTION Institute Annual Review and Knowledge Expo**
+      * UC Santa Barbara, Santa Barbara, California, 06/2024
   * **Statistics in the Age of AI conference (Poster)**
       * The George Washington University, Washington, DC, 05/2024
   * **Analysis and Data Science Seminar (Department of Math & Statistics)**
@@ -27,4 +29,7 @@ redirect_from:
       * Georgia Tech, Atlanta, GA, 09/2023
   * **10th International Congress on Industrial and Applied Mathematics (ICIAM)**
       * Waseda University, Tokyo, Japan, 08/2023
+  * **The 13th American Institute of Mathematical Science (AIMS) Conference**
+      * University of North Carolina Wilmington, Wilmington, NC, 06/2023
+        
 

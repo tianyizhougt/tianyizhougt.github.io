@@ -16,12 +16,4 @@ I was an exchange student at UCLA in 2019, studying mathematics.
 
 **My email: tzhou306(at)gatech(dot)edu** 
 
-## Selected Awards
-
-Part of my research has been kindly acknowledged by
-
-  * The Margaret and Stephen Kendrick Research Excellence Award
-    * Awarded annually to one Ph.D. student in ISyE for research in machine learning and analytics
-  * ARC-ACO (Algorithms and Randomness Center) Fellowship
-    * Institute-wide scholarship to support research in high-impact cross-disciplinary data science related areas
     

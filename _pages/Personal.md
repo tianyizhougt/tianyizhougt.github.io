@@ -5,7 +5,7 @@ excerpt: "Personal"
 author_profile: true
 redirect_from: 
   - /Personal/
-  - /about.html
+  - /Personal.html
 ---
 
  * List item one 

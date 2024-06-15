@@ -1,6 +1,6 @@
 ---
 permalink: /presentations/
-title: "Past and Upcoming Talks"
+title: "Recent Talks"
 author_profile: true
 redirect_from: 
   - /md/

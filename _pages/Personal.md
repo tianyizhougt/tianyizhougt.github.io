@@ -9,5 +9,5 @@ redirect_from:
 ---
 
  * Outside of research, I enjoy shopping at Costco and listening to Taylor Swift. 
- * List item three
+ * I am born and raised in Hong Kong. 
  * List item four

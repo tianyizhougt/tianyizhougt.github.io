@@ -4,8 +4,8 @@ title: "Personal"
 excerpt: "Personal"
 author_profile: true
 redirect_from: 
-  - /Personal/
-  - /Personal.html
+  - /md/
+  - /markdown.html
 ---
 
  * List item one 

@@ -7,9 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-  * **ACTION Institute Annual Review and Knowledge Expo**
-      * UC Santa Barbara, Santa Barbara, California, 06/2024
-  * **Statistics in the Age of AI conference (Poster)**
+  * **Statistics in the Age of AI conference**
       * The George Washington University, Washington, DC, 05/2024
   * **Analysis and Data Science Seminar (Department of Math & Statistics)**
       * SUNY Albany, Albany, NY, 04/2024

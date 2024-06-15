@@ -29,8 +29,8 @@ redirect_from:
      Tian-Yi Zhou and Xiaoming Huo. 
      **_Applied and Computational Harmonic Analysis (ACHA)._** [Paper Link](https://doi.org/10.1016/j.acha.2023.101582)
       * Second Place, The 13th American Institute of Mathematical Sciences (AIMS) Conference Student Paper Competition (2023)
-      * Selected to present at Association for Women in Mathematics (AWM) Research Symposium (2023)
-      * Runner-up, Alice and John Jarvis Ph.D. student paper competition at Georgia Tech ISyE (2022)
+      * Selected to present at Association for Women in Mathematics (AWM) Research Symposium (2023)  (1 out of 35 female PhD students selected nationwide)
+      * Runner-up, Alice and John Jarvis Ph.D. student paper competition at Georgia Tech (2022)
         
   * **Approximation and non-parametric estimation of functions over high-dimensional spheres via deep ReLU networks** (2023).
     Namjoon Suh, Tian-Yi Zhou, and Xiaoming Huo. 

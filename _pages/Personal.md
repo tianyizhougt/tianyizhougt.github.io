@@ -8,7 +8,6 @@ redirect_from:
   - /markdown.html
 ---
 
- * List item one 
- * List item two
+ * Outside of research, I enjoy shopping at Costco and listening to Taylor Swift. 
  * List item three
  * List item four

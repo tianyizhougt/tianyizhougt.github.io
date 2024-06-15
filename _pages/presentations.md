@@ -1,12 +1,16 @@
 ---
 permalink: /presentations/
-title: "Recent Talks"
+title: "Recent and Upcoming Talks"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
+  * **Joint Meeting of the New Zealand, Australian and American Mathematical Societies**
+      * Auckland, New Zealand, 12/2024
+  * **INFORMS Annual Meeting**
+      * Seattle, Washington, 10/2024
   * **Statistics in the Age of AI conference**
       * The George Washington University, Washington, DC, 05/2024
   * **Analysis and Data Science Seminar (Department of Math & Statistics)**

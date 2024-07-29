@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## Preprints
-  * **Optimal Classification-based Unsupervised Anomaly Detection by Neural Networks: Theory and Practice.** (2024).
+  * **Optimal Classification-based Unsupervised Anomaly Detection with Neural Networks: Theory and Practice.** (2024).
     Tian-Yi Zhou, Matthew Lau, Jizhou Chen, Wenke Lee, and Xiaoming Huo.
     _Pre-print (Draft upon request)._
 

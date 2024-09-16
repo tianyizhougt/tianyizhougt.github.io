@@ -9,19 +9,17 @@ redirect_from:
 
 
 ## Preprints
-  * **Optimal Classification-based Anomaly Detection with Neural Networks: Theory and Practice.** (2024).
-    
+  * **Optimal Classification-based Anomaly Detection with Neural Networks: Theory and Practice in cybersecurity.** (2024).\\
     Tian-Yi Zhou, Matthew Lau, Jizhou Chen, Wenke Lee, and Xiaoming Huo.
     _Pre-print._
 
-  * **Approximation of RKHS Functionals by Neural Networks.** (2024).
-    
+  * **Approximation of RKHS Functionals by Neural Networks.** (2024).\\ 
     Tian-Yi Zhou, Namjoon Suh, Guang Cheng, and Xiaoming Huo.
     _Pre-print._ [ArXiv](http://arxiv.org/abs/2403.12187)
      
 ## Journal & Conference Proceedings
 
-   * **Classification of Unbounded Data by Gaussian Mixture Models via deep ReLU Networks** (2023+).
+   * **Classification of Unbounded Data by Gaussian Mixture Models via deep ReLU Networks** (2023+).\\
     Tian-Yi Zhou and Xiaoming Huo.
     **_Journal of Machine Learning Research (JMLR)._** [ArXiv](https://arxiv.org/pdf/2308.08030.pdf)
      * ARC-ACO (Algorithms and Randomness Center) Fellowship at Georgia Tech (2023)

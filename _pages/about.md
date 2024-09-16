@@ -13,7 +13,9 @@ I am a fourth-year Machine Learning Ph.D. student at Georgia Institute of Techno
 Previously, I earned my B.Sc. in Statistics with first-class honors at the University of Hong Kong. I was an Overseas Research Fellow in 2019, working with Prof [Ming Yuan](https://www.columbia.edu/~my2550/) at Columbia University, New York. 
 
 I was an exchange student at UCLA in 2019, studying mathematics. 
-My [CV](/_pages/CV.pdf).
+
+**My [CV](/_pages/CV.pdf)**
+
 **My email: tzhou306(at)gatech(dot)edu** 
 
     

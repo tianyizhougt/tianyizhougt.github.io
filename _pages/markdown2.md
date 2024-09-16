@@ -23,8 +23,7 @@ redirect_from:
 
    * **Classification of Unbounded Data by Gaussian Mixture Models via deep ReLU Networks** (2023+).
      
-    Tian-Yi Zhou and Xiaoming Huo.
-    
+     Tian-Yi Zhou and Xiaoming Huo.
     **_Journal of Machine Learning Research (JMLR)._** [ArXiv](https://arxiv.org/pdf/2308.08030.pdf)
      * ARC-ACO (Algorithms and Randomness Center) Fellowship at Georgia Tech (2023)
 

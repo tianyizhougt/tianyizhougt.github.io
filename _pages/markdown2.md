@@ -9,11 +9,13 @@ redirect_from:
 
 
 ## Preprints
-  * **Optimal Classification-based Anomaly Detection with Neural Networks: Theory and Practice.** (2024).\\
+  * **Optimal Classification-based Anomaly Detection with Neural Networks: Theory and Practice.** (2024).
+    
     Tian-Yi Zhou, Matthew Lau, Jizhou Chen, Wenke Lee, and Xiaoming Huo.
     _Pre-print._
 
   * **Approximation of RKHS Functionals by Neural Networks.** (2024).
+    
     Tian-Yi Zhou, Namjoon Suh, Guang Cheng, and Xiaoming Huo.
     _Pre-print._ [ArXiv](http://arxiv.org/abs/2403.12187)
      

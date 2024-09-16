@@ -13,7 +13,7 @@ I am a fourth-year Machine Learning Ph.D. student at Georgia Institute of Techno
 Previously, I earned my B.Sc. in Statistics with first-class honors at the University of Hong Kong. I was fortunate to work with Prof. [Qiang Fu](https://sociology.ubc.ca/profile/qiang-fu/) (Sociology @ UBC) and Prof. [Xin Guo](https://smp.uq.edu.au/profile/11757/xin-guo) (Math @ University of Queensland) on computational social science. I was an Overseas Research Fellow in 2019, working with Prof [Ming Yuan](https://www.columbia.edu/~my2550/) at Columbia University, New York. 
 
 I was an exchange student at UCLA in 2019, studying mathematics. 
-
+My [CV](/CV.pdf)
 **My email: tzhou306(at)gatech(dot)edu** 
 
     

@@ -10,7 +10,6 @@ redirect_from:
 
 ## Preprints
   * **Optimal Classification-based Anomaly Detection with Neural Networks: Theory and Practice in cybersecurity.** (2024).
-  
     Tian-Yi Zhou, Matthew Lau, Jizhou Chen, Wenke Lee, and Xiaoming Huo.
     _Pre-print._
 

@@ -9,6 +9,8 @@ redirect_from:
 
   * **Joint Meeting of the New Zealand, Australian and American Mathematical Societies**
       * Auckland, New Zealand, 12/2024
+  * **Seminar at the Department of Mathematics**
+      * Universität Bayreuth, Bayreuth, Germany, 11/2024
   * **INFORMS Annual Meeting**
       * Seattle, Washington, 10/2024
   * **ML@GT Student Conference**

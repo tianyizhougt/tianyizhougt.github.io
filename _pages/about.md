@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fifth-year Machine Learning Ph.D. student at Georgia Institute of Technology [ISyE](https://www.isye.gatech.edu/), where I am fortunate to be advised by Prof. [Xiaoming Huo](https://www.isye.gatech.edu/users/xiaoming-huo). My research focuses on the theoretical foundations of deep learning. I study the statistical and computational principles that drive the success of deep learning, with the goal of enhancing the performance of systems that leverage these technologies. Recently, I have been interested in the theory and practice of network intrusion detection in cybersecurity.
 
-Previously, I earned my B.Sc. in Statistics with first-class honors at the University of Hong Kong in 2020. I was an exchange student at UCLA in 2019, studying mathematics and statistics. 
+Born and raised in Hong Kong, I completed my B.Sc. in Statistics with first-class honors at the University of Hong Kong in 2020. During my undergraduate studies, I had the opportunity to study mathematics and statistics as an exchange student at UCLA in 2019.
 
 **You can find my CV [here](/_pages/CV.pdf)**
 

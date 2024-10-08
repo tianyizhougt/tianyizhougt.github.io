@@ -12,7 +12,7 @@ I am a fifth-year Machine Learning Ph.D. student at Georgia Institute of Technol
 
 Born and raised in Hong Kong, I completed my B.Sc. in Statistics with first-class honors at the University of Hong Kong in 2020. During my undergraduate studies, I had the opportunity to study mathematics and statistics as an exchange student at UCLA in 2019.
 
-**You can find my CV [here](/_pages/CV.pdf)**
+**You can find my CV [here](/_pages/CV.pdf) (last updated 9-15-24)**
 
 **My email: tzhou306(at)gatech(dot)edu** 
 

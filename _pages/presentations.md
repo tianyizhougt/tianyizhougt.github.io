@@ -13,6 +13,8 @@ redirect_from:
       * Auckland, New Zealand, 12/2024
   * **Seminar at the Department of Mathematics**
       * Universität Bayreuth, Bayreuth, Germany, 11/2024
+  * **Georgia Tech SIAM seminar (School of Math)**
+      * Georgia Tech, Atlanta, GA, 11/2024 
   * **INFORMS Annual Meeting**
       * Seattle, Washington, 10/2024
   * **ML@GT Student Conference**

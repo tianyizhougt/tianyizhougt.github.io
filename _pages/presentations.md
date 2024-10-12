@@ -7,7 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-  * **Joint Meeting of the New Zealand, Australian and American Mathematical Societies**
+  * **Seminar at the Department of Mathematics**
+      * University of Hong Kong, Hong Kong, 12/2024
+  * **Joint Meeting of the New Zealand, Australian, and American Mathematical Societies**
       * Auckland, New Zealand, 12/2024
   * **Seminar at the Department of Mathematics**
       * Universität Bayreuth, Bayreuth, Germany, 11/2024

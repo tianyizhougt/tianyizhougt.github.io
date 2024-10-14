@@ -33,7 +33,7 @@ redirect_from:
     Namjoon Suh, Tian-Yi Zhou, and Xiaoming Huo. \
     **_ICLR 2023._** [Paper Link](https://openreview.net/forum?id=r90KYcuB7JS&noteId=b_7KCSqylJ)
      
-## Computational Social Science
+## Computational Sociology
 
  * **Drink like a Man? Modified Poisson Analysis of Adolescent Binge Drinking in the US, 1976–2022** (2024+).\
     Jiaxin Gu, Minheng Chen, Xin Guo, Yushu Zhu, Tian-Yi Zhou, Yue Yuan, and Qiang Fu.\

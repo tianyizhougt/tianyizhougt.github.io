@@ -35,9 +35,9 @@ redirect_from:
      
 ## Computational Sociology
 
- * **Drink like a Man? Modified Poisson Analysis of Adolescent Binge Drinking in the US, 1976–2022** (2024+).\
-    Jiaxin Gu, Minheng Chen, Xin Guo, Yushu Zhu, Tian-Yi Zhou, Yue Yuan, and Qiang Fu.\
-    **_Under Revision at Social Science & Medicine._**
+ * **Drink like a Man? Modified Poisson Analysis of Adolescent Binge Drinking in the US, 1976–2022** (2024).\
+    Jiaxin Gu, Minheng Chen, Yue Yuan, Xin Guo, Tian-Yi Zhou, and Qiang Fu.\
+    **_Social Science & Medicine._**[Paper Link](https://doi.org/10.1016/j.socscimed.2024.117553)
    
  * **Gone with the Weed: Incidents of Adolescent Marijuana Use in the United States, 1976-2021** (2023). \
      Jiaxin Gu, Xin Guo, Xiaoxi Liu, Yue Yuan, Yushu Zhu, Minheng Chen, Tian-Yi Zhou, and Qiang Fu.\

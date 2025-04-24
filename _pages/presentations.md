@@ -8,6 +8,8 @@ redirect_from:
 ---
 
   * **Seminar at the Department of Mathematics**
+      * Hong Kong Baptist University, Hong Kong, 12/2024
+  * **Optimization and Machine Learning Seminar**
       * University of Hong Kong, Hong Kong, 12/2024
   * **Joint Meeting of the New Zealand, Australian, and American Mathematical Societies**
       * Auckland, New Zealand, 12/2024

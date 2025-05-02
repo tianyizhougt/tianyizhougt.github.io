@@ -14,8 +14,6 @@ Born and raised in Hong Kong, I completed my B.Sc. in Statistics with first-clas
 
 I will be joining Columbia University's Data Science Institute as a Postdoctoral Fellow starting Summer 2025!
 
-**You can find my CV [here](/_pages/CV.pdf) (last updated October 2024)**
-
 **My email: tzhou306(at)gatech(dot)edu** 
 
     

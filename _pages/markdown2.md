@@ -11,7 +11,7 @@ redirect_from:
 ## Deep Learning Theory
   * **Optimal Classification-based Anomaly Detection with Neural Networks: Theory and Practice in Cybersecurity** (2024+).\
     Tian-Yi Zhou\*, Matthew Lau\*, Jizhou Chen, Wenke Lee, and Xiaoming Huo.\
-    _Submitted._ [ArXiv](https://arxiv.org/abs/2409.08521)
+    **_Under Revision at Annals of Applied Statistics (AOAS)._** [ArXiv](https://arxiv.org/abs/2409.08521)
 
   * **Approximation of RKHS Functionals by Neural Networks** (2024+).\
     Tian-Yi Zhou, Namjoon Suh, Guang Cheng, and Xiaoming Huo.\

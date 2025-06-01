@@ -7,12 +7,12 @@ redirect_from:
   - /markdown.html
 ---
 
+  * **INFORMS Annual Meeting 2025**
+      * Atlanta, GA, 10/2025
   * **Joint Statistical Meeting 2025**
       * Nashville, TN, 8/2025
   * **ISyE-MS&E-IOE Rising Stars Workshop**
       * Georgia Tech, 4/2025  
-  * **Seminar at the Department of Mathematics and Statistics**
-      * Georgetown University, Washington, DC, 3/2025
   * **Seminar at the Department of Mathematics**
       * Hong Kong Baptist University, Hong Kong, 12/2024
   * **Optimization and Machine Learning Seminar**

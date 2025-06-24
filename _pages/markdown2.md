@@ -11,7 +11,7 @@ redirect_from:
 ## Deep Learning Theory
   * **Bridging Unsupervised and Semi-Supervised Anomaly Detection: A Theoretically-Grounded and Practical Framework with Synthetic Anomalies** (2025+).\
     Tian-Yi Zhou\*, Matthew Lau\*, Xiangchi Yuan, Jizhou Chen, Wenke Lee, and Xiaoming Huo.\
-    **_Submitted._**
+    **_Submitted._** [ArXiv](https://arxiv.org/abs/2506.13955)
     
   * **Optimal Classification-based Anomaly Detection with Neural Networks: Theory and Practice in Cybersecurity** (2024+).\
     Tian-Yi Zhou\*, Matthew Lau\*, Jizhou Chen, Wenke Lee, and Xiaoming Huo.\

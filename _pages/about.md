@@ -12,6 +12,8 @@ I am a postdoctoral research scientist at Columbia University's Data Science Ins
 
 I received my Ph.D. in Machine Learning from Georgia Institute of Technology [ISyE](https://www.isye.gatech.edu/), where I was fortunate to be advised by [Xiaoming Huo](https://www.isye.gatech.edu/users/xiaoming-huo). Born and raised in Hong Kong, I completed my B.Sc. in Statistics with first-class honors at the University of Hong Kong in 2020. During my undergraduate studies, I had the opportunity to study mathematics and statistics as an exchange student at UCLA in 2019.
 
+You can find my CV [here](/_pages/CV.pdf).
+
 **My email: tz2699(at)columbia.edu** 
 
     

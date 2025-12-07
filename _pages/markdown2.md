@@ -13,7 +13,7 @@ redirect_from:
     Tian-Yi Zhou\*, Matthew Lau\*, Xiangchi Yuan, Jizhou Chen, Wenke Lee, and Xiaoming Huo.\
     **_Submitted._** [ArXiv](https://arxiv.org/abs/2506.13955)
     
-  * **Optimal Classification-based Anomaly Detection with Neural Networks: Theory and Practice in Cybersecurity** (2024+).\
+  * **Learning to Detect Cyber Attacks: Neural Anomaly Detection for Cybersecurity with Theoretical Insights** (2024+).\
     Tian-Yi Zhou\*, Matthew Lau\*, Jizhou Chen, Wenke Lee, and Xiaoming Huo.\
     **_Under Revision at Annals of Applied Statistics (AOAS)._** [ArXiv](https://arxiv.org/abs/2409.08521)
 

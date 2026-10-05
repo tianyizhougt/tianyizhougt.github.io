@@ -11,7 +11,7 @@ redirect_from:
   * **Synthetic Anomalies Improve Anomaly Detection: Learning
 Guarantees and Applications** (2026).\
     Tian-Yi Zhou, Matthew Lau, Xiangchi Yuan, Jizhou Chen, Wenke Lee, and Xiaoming Huo.\
-    **_In Submission._** [Link]
+    **_In Submission._** [Link](/_pages/semiAD.pdf)
     
   * **Learning to Detect Cyber Attacks: Neural Anomaly Detection for Cybersecurity with Theoretical Insights** (2024+).\
     Tian-Yi Zhou\*, Matthew Lau\*, Jizhou Chen, Wenke Lee, and Xiaoming Huo.\

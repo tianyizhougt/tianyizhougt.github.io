@@ -7,18 +7,14 @@ redirect_from:
   - /markdown.html
 ---
 
-  * **INFORMS Annual Meeting 2025**
-      * Atlanta, GA, 10/2025
-  * **Joint Statistical Meeting 2025**
-      * Nashville, TN, 8/2025
-  * **ISyE-MS&E-IOE Rising Stars Workshop**
-      * Georgia Tech, 4/2025  
-  * **Seminar at the Department of Mathematics**
-      * Hong Kong Baptist University, Hong Kong, 12/2024
-  * **Optimization and Machine Learning Seminar**
-      * University of Hong Kong, Hong Kong, 12/2024
-  * **Joint Meeting of the New Zealand, Australian, and American Mathematical Societies**
-      * Auckland, New Zealand, 12/2024
+  * **INFORMS Annual Meeting 2026 Job Market Showcase**
+      * Section Title: Statistical Learning, Markets, and Power Grids
+      * Time and Venue: November 1 (Sunday) 4:15 PM-5:30 PM, Moscone South-206 (Level 2)
+   * **SIAM Conference on Mathematics of Data Science (MDS26)**
+      *  Salt Lake City, UT, 11/2026
+  * **SIAM NY-NJ-PA Section Meeting**
+      * Rutgers University, 10/2026
+
  
         
 

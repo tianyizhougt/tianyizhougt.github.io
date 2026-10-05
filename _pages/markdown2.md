@@ -12,7 +12,7 @@ redirect_from:
  * **Improving Learning of Green’s Functions Through
 Kernel Decomposition** (2026).\
     Beiji Chen, Qiang Du, Kui Ren, and Tian-Yi Zhou. **(Alphabetical order)**\
-    **_In Submission._** [Link]
+    **_In Submission._** [Link](/_pages/kernel_green.pdf)
 
   * **Synthetic Anomalies Improve Anomaly Detection: Learning
 Guarantees and Applications** (2026).\

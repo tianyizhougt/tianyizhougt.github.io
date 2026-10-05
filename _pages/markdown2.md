@@ -23,7 +23,7 @@ Kernel Decomposition** (2026).\
     Beiji Chen, Qiang Du, Kui Ren, and Tian-Yi Zhou. **(Alphabetical order)**\
     **_In Submission._** [Link](/_pages/kernel_green.pdf)
 
-  * **Approximation of RKHS Functionals by Neural Networks** (2024+).\
+  * **Neural Operators for Nonlinear Functionals on RKHS** (2024+).\
     Tian-Yi Zhou, Namjoon Suh, Guang Cheng, and Xiaoming Huo.\
     **_Under Second-round Revision at Journal of Machine Learning Research (JMLR)._** [Link](http://arxiv.org/abs/2403.12187)
     

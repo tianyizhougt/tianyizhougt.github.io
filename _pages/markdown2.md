@@ -21,7 +21,7 @@ Guarantees and Applications** (2026).\
  * **Improving Learning of Green’s Functions Through
 Kernel Decomposition** (2026).\
     Beiji Chen, Qiang Du, Kui Ren, and Tian-Yi Zhou. **(Alphabetical order)**\
-    **_In Submission._** [Link](/_pages/kernel_green.pdf)
+    **_In Submission._** [Link](https://arxiv.org/abs/2610.09101)
 
   * **Neural Operators for Nonlinear Functionals on RKHS** (2024+).\
     Tian-Yi Zhou, Namjoon Suh, Guang Cheng, and Xiaoming Huo.\

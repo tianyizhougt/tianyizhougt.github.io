@@ -18,6 +18,10 @@ Guarantees and Applications** (2026).\
     **_Under Minor Revision at Annals of Applied Statistics (AOAS)._** [Link](https://arxiv.org/abs/2409.08521)
     
 ## Deep Learning 
+ * **Adaptive continual learning by neural networks: Statistical insights for shared representation** (2026).\
+    Tian-Yi Zhou, Qiang Du, and Samory Kpotufe. \
+    **_Soon to be submitted (available upon request)._**
+
  * **Improving Learning of Green’s Functions Through
 Kernel Decomposition** (2026).\
     Beiji Chen, Qiang Du, Kui Ren, and Tian-Yi Zhou. **(Alphabetical order)**\

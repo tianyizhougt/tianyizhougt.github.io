@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research scientist at Columbia University's Data Science Institute, working with [Samory Kpotufe](https://www.columbia.edu/~skk2175/) (Department of Statistics) and [Qiang Du](https://www.apam.columbia.edu/faculty/qiang-du) (Department of Applied Physics and Applied Mathematics). 
+I am a postdoctoral fellow at Columbia University's Data Science Institute, working with [Samory Kpotufe](https://www.columbia.edu/~skk2175/) (Department of Statistics) and [Qiang Du](https://www.apam.columbia.edu/faculty/qiang-du) (Department of Applied Physics and Applied Mathematics). 
 
 **In Fall 2027, I will join the [Department of Business Analytics and Statistics](https://haslam.utk.edu/business-analytics-statistics/) at the [Haslam College of Business](https://haslam.utk.edu/), University of Tennessee, as a tenure-track Assistant Professor.**
 

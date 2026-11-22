@@ -12,7 +12,7 @@ I am a postdoctoral research scientist at Columbia University's Data Science Ins
 
 I develop statistical foundations and learning algorithms for reliable AI systems, with cybersecurity as a central motivation. My research asks how AI systems can detect evolving cyber-attacks when yesterday’s data no longer reflect today’s threats. My work develops principled ways to use synthetic data for anomaly detection and to transfer knowledge across sequentially arriving tasks. I also study how neural network architectures and representations of functional data shape learning and generalization.
 
-I received my Ph.D. in Machine Learning from Georgia Institute of Technology [ISyE](https://www.isye.gatech.edu/), where I was fortunate to be advised by [Xiaoming Huo](https://www.isye.gatech.edu/users/xiaoming-huo). Originally from Hong Kong, I completed my B.Sc. in Statistics with first-class honors at the University of Hong Kong in 2020. During my undergraduate studies, I had the opportunity to study mathematics and statistics as an exchange student at UCLA in 2019.
+I received my Ph.D. in Machine Learning from the [H. Milton Stewart School of Industrial and Systems Engineering (ISyE)](https://www.isye.gatech.edu/) at the Georgia Institute of Technology in 2025, where I was fortunate to be advised by [Prof. Xiaoming Huo](https://www.isye.gatech.edu/users/xiaoming-huo). Originally from Hong Kong, I completed my B.Sc. in Statistics with first-class honors at the University of Hong Kong in 2020. During my undergraduate studies, I had the opportunity to study mathematics and statistics as an exchange student at UCLA in 2019.
 
 **You can find my CV [here](/_pages/CV.pdf).**
 
